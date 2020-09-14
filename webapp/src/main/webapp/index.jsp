@@ -5,5 +5,12 @@
 <h3> 
   Apache Maven 3.6.3 is the latest release and recommended version for all users.
   The currently selected download mirror is https://downloads.apache.org/.
+  
+  Apache Maven 3.6.3 is the latest release and recommended version for all users.
+  The currently selected download mirror is https://downloads.apache.org/.
+  
+  Apache Maven 3.6.3 is the latest release and recommended version for all users.
+  The currently selected download mirror is https://downloads.apache.org/.
+  
 </h3>
 
